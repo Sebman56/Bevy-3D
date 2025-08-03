@@ -1,0 +1,7 @@
+[package]
+name = "bevy_cube_3d"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.12"  # Sans spécifier de features
